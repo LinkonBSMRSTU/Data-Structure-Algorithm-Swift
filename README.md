@@ -8,3 +8,5 @@ Practice Problems
 https://github.com/LinkonBSMRSTU/swift-algorithm-club - automatic! 
 
 [Practice Problems](https://github.com/LinkonBSMRSTU/swift-algorithm-club)
+
+![PDF Cover](/images/pic.png)
